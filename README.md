@@ -1,9 +1,6 @@
 # PWN_Check
 PWN_Check is a Python script leveraging the 'Have I Been Pwned' (HIBP) database to swiftly determine if a password has been compromised, providing instant feedback on its safety status.
 
-## Descripton
-PwnCheck is a Python script leveraging the 'Have I Been Pwned' (HIBP) database to swiftly determine if a password has been compromised, providing instant feedback on its safety status.
-
 ### Features
 - Utilizes HIBP API to check password breaches.<br>
 - Localized password checks for user privacy.<br>
